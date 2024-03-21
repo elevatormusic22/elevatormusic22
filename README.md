@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @elevatormusic
+- 👀 I’m interested in doing backend coding
+- 🌱 I’m currently learning C#/c++
+- 📫 How to reach me elevatormusic22 on discord
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: -9
